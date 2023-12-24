@@ -69,6 +69,7 @@ namespace Scanner
             [RoleTypeId.Scp173] = new("SCP 1 7 3", "SCP-173"),
             [RoleTypeId.Scp939] = new("SCP 9 3 9", "SCP-939"),
             [RoleTypeId.Scp3114] = new("SCP 3 1 1 4", "SCP-3114")
+            [RoleTypeId.ZombieFlamingo] = new("SCP 1 5 0 7 0 4 9", "SCP-1507-049")
         };
 
         [Description("Determines how cassie will pronounce Serpent's Hand, only if the plugin is installed.")]
